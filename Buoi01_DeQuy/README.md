@@ -1,6 +1,6 @@
 # Buổi 01 – Đệ quy
 
-Họ tên: Lê Thành Long · MSV: 12425071
+Họ tên: PHẠM TIẾN ĐẠT · MSV: 12425009
 
 ## Bài đã làm
 
