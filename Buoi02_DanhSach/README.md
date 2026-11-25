@@ -40,7 +40,7 @@ Nhập a[0,1]: 2
 Nhập a[1,0]: 3
 Nhập a[1,1]: 4
 
-Ma trận vừa nhập:
+Ma trận vừa nhập:        
 1       2
 3       4
 
