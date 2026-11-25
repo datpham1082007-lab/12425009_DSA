@@ -1,16 +1,48 @@
-# 12425009_DSA
-# Bài tập CTDL&GT – 211131
-- Họ tên: Phạm Tiến Đạt
-- MSV: 12425009
-- Lớp: 124251
+Chương 4 , Bổ Sung các câu chương 2
+PHẠM TIẾN ĐẠT
+MSV : 12425009
 
-| Buổi | Nội dung | Thư mục | Trạng thái |
-|---|---|---|---|
-| 01 | Đệ quy | Buoi01_DeQuy | Đã Nộp |
-| 02 | Danh sách | Buoi02_DanhSach | Chưa nộp |
-| 03 | Stack và Queue | Buoi03_Stack_Queue | Chưa nộp |
-| 04 | Cây | Buoi04_Cay | Chưa nộp |
-| 05 | Sắp xếp | Buoi05_SapXep | Chưa nộp |
-| 06 | Tìm kiếm | Buoi06_TimKiem | Chưa nộp |
-| BTL | Bài tập lớn | BaiTapLon | Chưa nộp |
+Kết Quả Chạy Chương Trình Chương 4
 
+Bai1:
+Nhap so nguyen n: 14
+So nguyen vua nhap la: 14
+Danh sach cac so nguyen tu 1 den 14:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 Nhap phan tu x: 10
+Nhap vi tri k: 5
+Danh sach sau khi chen phan tu x vao vi tri k:
+1 2 3 4 10 6 7 8 9 10 11 12 13 14 15 
+
+Bai2:
+Nhap so luong nhan vien: 
+
+Nhap nhan vien thu 1
+Ma NV: 103
+Ho ten: DAT PHAM
+Gioi tinh: NAM
+Phong ban: 20
+Luong co ban: 500
+
+===== DANH SACH NHAN VIEN =====
+Ma NV: 103
+Ho ten: DAT PHAM
+Gioi tinh: NAM
+Phong ban: 20
+Luong co ban: 500
+-------------------------
+Tong luong nhan vien nam: 500
+
+Bai3:
+Nhập lựa chọn: 3
+Nhập cấp ma trận n: 2
+Nhập a[0,0]: 1
+Nhập a[0,1]: 2
+Nhập a[1,0]: 3
+Nhập a[1,1]: 4
+
+Ma trận vừa nhập:
+1       2
+3       4
+
+Tổng các phần tử của ma trận: 10
+Giá trị dương nhỏ nhất: 1
